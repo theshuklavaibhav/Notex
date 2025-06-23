@@ -1,6 +1,6 @@
 # NoteX - Flutter Notes App
 
-![NoteX Screenshot](https://drive.google.com/uc?export=view&id=1AbCDefGhIJklMNopQRsTuvWXyZ)
+![NoteX Home Screen](https://drive.google.com/uc?export=view&id=17JkueOkRMGFfdWFHunypMihhN6_t5HiA)
 
 ## 📱 Overview
 
@@ -78,9 +78,9 @@ lib/
 
 ## 📸 Screenshots
 
-| Home Screen                  | Add Note Screen              |
-|------------------------------|------------------------------|
-| ![Home](https://drive.google.com/uc?export=view&id=1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2) | ![Add](https://drive.google.com/uc?export=view&id=1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2) |
+| Home Screen                                                                 | Add Note Screen                                                               |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| ![Home](https://drive.google.com/uc?export=view&id=17JkueOkRMGFfdWFHunypMihhN6_t5HiA) | ![Add](https://drive.google.com/uc?export=view&id=1kKU-6drm9AW0a919DZKzlTh1imwHYYuN) |
 
 ---
 
@@ -99,7 +99,7 @@ Hi! I'm Vaibhav, a passionate Flutter developer eager to build beautiful and fun
 This project demonstrates my understanding of Flutter, state management, and clean code practices.  
 I'm excited to bring my skills and enthusiasm to your team as a Flutter intern!
 
----
+--
 
 ## 📬 Contact
 
