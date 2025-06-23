@@ -2,6 +2,11 @@
 
 ![NoteX Screenshot](https://drive.google.com/drive/folders/1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2?usp=sharing)
 
+Image.network(
+  'https://drive.google.com/drive/folders/1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2?usp=sharing', 
+  fit: BoxFit.cover,
+)
+
 ## 📱 Overview
 
 **NoteX** is a simple, clean, and responsive notes app built with Flutter. It demonstrates modern state management using the Provider package and follows best practices for UI and code structure. The app allows users to add, view, and delete notes with a beautiful and intuitive interface.
