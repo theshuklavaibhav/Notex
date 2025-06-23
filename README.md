@@ -1,11 +1,6 @@
 # NoteX - Flutter Notes App
 
-![NoteX Screenshot](https://drive.google.com/drive/folders/1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2?usp=sharing)
-
-Image.network(
-  'https://drive.google.com/drive/folders/1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2?usp=sharing', 
-  fit: BoxFit.cover,
-)
+![NoteX Screenshot](https://drive.google.com/uc?export=view&id=1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2)
 
 ## 📱 Overview
 
@@ -85,7 +80,7 @@ lib/
 
 | Home Screen                  | Add Note Screen              |
 |------------------------------|------------------------------|
-| ![Home](https://drive.google.com/file/d/17JkueOkRMGFfdWFHunypMihhN6_t5HiA/view?usp=sharing)     | ![Add](https://drive.google.com/file/d/1kKU-6drm9AW0a919DZKzlTh1imwHYYuN/view?usp=drive_link)       |
+| ![Home](https://drive.google.com/uc?export=view&id=1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2) | ![Add](https://drive.google.com/uc?export=view&id=1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2) |
 
 ---
 
