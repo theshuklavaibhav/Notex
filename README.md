@@ -31,7 +31,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/notex.git
+   git clone https://github.com/theshuklavaibhav/Notex.git
    cd notex
    ```
 
@@ -103,7 +103,7 @@ I'm excited to bring my skills and enthusiasm to your team as a Flutter intern!
 
 ## 📬 Contact
 
-- [LinkedIn](www.linkedin.com/in/vaibhav-shukla-248810249)
+- [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-248810249)
 - [Email](mailto:your.vaibhavshuklaofficial8586@gmail.com)
 
 ---
