@@ -1,6 +1,6 @@
 # NoteX - Flutter Notes App
 
-![NoteX Screenshot](https://drive.google.com/uc?export=view&id=1RuaShFkSkrLa804IdhZo1m-C3MvjFCR2)
+![NoteX Screenshot](https://drive.google.com/uc?export=view&id=1AbCDefGhIJklMNopQRsTuvWXyZ)
 
 ## 📱 Overview
 
